@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>
+            Min's Favorite Musician
+        </title>
+        <link ref="icon" type="image/png" href="https://www.google.com/imgres?imgurl=https%3A%2F%2Fb.thumbs.redditmedia.com%2FbXLx2EtuTyRa6zZw57wwEU6ZIoKWua-j7bmj1OtpnxM.png&imgrefurl=https%3A%2F%2Fwww.reddit.com%2Fr%2Fbeatles%2F&tbnid=JE9uS9jxcm3hmM&vet=12ahUKEwjx3u-i_4P3AhU1HzQIHR6MAN0QMygIegQIARB0..i&docid=HScR32zITp0vrM&w=256&h=256&q=beatles%20favicon&hl=en&ved=2ahUKEwjx3u-i_4P3AhU1HzQIHR6MAN0QMygIegQIARB0">
+    </head>
+        <body>
+            <h1>  Min's Favorite <em> Musicians </em> 
+            </h1>
+                <h2> 
+                    <a href="https://en.wikipedia.org/wiki/The_Beatles" target ="_blank"> THE BEATLES </a>
+                </h2>
+                    <h3>
+                    <img
+                        src="https://cdn.britannica.com/18/136518-050-CD0E49C6/The-Beatles-Ringo-Starr-Paul-McCartney-George.jpg?w=400&h=300&c=crop"
+                        alt="Fab Four"/>
+                    </h3>   
+                <p><em>Bio</em><br>
+                     "The Beatles were an English rock band, formed in Liverpool in 1960, that comprised John Lennon, Paul McCartney, George Harrison and Ringo Starr. They are regarded as the most influential band of all time and were integral to the development of 1960s counterculture and popular music's recognition as an art form."
+                </p>
+                        <h4>
+                        <table>
+                        <thead>
+                            All Time Fav Song List
+                        </thead>
+                        <tbody>
+                            <td>
+                                <ol>
+                                    <li>Blackbird</li>
+                                    <li>Yesterday</li>
+                                    <li>Let It Be</li>
+                                    <li>Hey Jude</li>
+                                </ol>
+                            </td>
+                        </tbody>
+                        </table>
+                        </h4>      
+                            <h5>
+                                The Beatles - Don't Let Me Down - Rooftop Session
+                                <br>
+                                <video controls autoplay src="https://youtu.be/NCtzkaL2t_Y" alt="The Browser Does Not Support Fab Four">
+                                </video>
+                            </h5>
+        </body>
+</html>
